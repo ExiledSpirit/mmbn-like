@@ -58,7 +58,7 @@ public class MenuScreen extends ScreenAdapter {
         // fade out menu stage
         stage.addAction(Actions.sequence(
             Actions.fadeOut(0.5f),
-            Actions.run(() -> app.setScreen(new GameScreen(app.batch)))));
+            Actions.run(() -> app.setScreen(new GameScreen(app)))));
       case SETTINGS -> contentArea.add(new SettingsView());
       case DECK -> contentArea.add(new DeckView());
       case EXIT -> Gdx.app.exit();

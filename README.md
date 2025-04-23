@@ -10,3 +10,6 @@ The game will follow a rock paper scissors type of mechanic, where you and your 
 - <code style="color : red">**ATTACK**</code> - Quantified by **ATTACK DAMAGE** and **AREA**. These cards primarily objective is to inflict damage to your opponent life points.
 - <code style="color : blue">**DEFENSE**</code> - Quantified by **SHIELD POINTS** and **DURATION**. These cards primarily objective is to add a shield to yourself.
 - <code style="color : green">**MOVEMENT**</code> - Quantified by **DISTANCE**. These cards primarily objective is to move your character.
+
+tiles 
+https://megaman.miraheze.org/wiki/Panel#Battle_Chips
